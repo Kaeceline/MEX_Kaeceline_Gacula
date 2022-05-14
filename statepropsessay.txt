@@ -1,0 +1,3 @@
+Difference between state and props
+
+Props is an object that stores value which is used to pass data. It is a read-only component which means we cannot modify, while state is a structure that contains data which can be modified by its own component. This allows changing and managing data.
